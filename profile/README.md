@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mosaico-anr&style=flat-square&label=Page+Views)
+
 For several years, programmability has become increasingly important in network architectures. A first generation of programmable networks was born ten years ago with the Software Defined Networking (SDN) concept and its implementations (OpenFlow) which offers a first level of control plane programmability. Then, the Network Function Virtualization (NFV) was introduced to enable the deployment of software functions. Today, the data plane programmability, mainly instantiated by P4 that further extends the concept of network programmability, is approaching.
 
 In parallel, a new trend to finely split services into micro-services appeared. The expected benefits rely on an easier development and maintenance, better quality, scalability and responsiveness to new scenarios than monolithic approaches, while offering more possibilities for operators and management facilities through orchestration.

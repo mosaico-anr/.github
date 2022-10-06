@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mosaico-anr&style=flat-square&label=Page+Views)
+
 
 For several years, programmability has become increasingly important in network architectures. A first generation of programmable networks was born ten years ago with the Software Defined Networking (SDN) concept and its implementations (OpenFlow) which offers a first level of control plane programmability. Then, the Network Function Virtualization (NFV) was introduced to enable the deployment of software functions. Today, the data plane programmability, mainly instantiated by P4 that further extends the concept of network programmability, is approaching.
 
@@ -14,3 +14,6 @@ This need for multi-level and multi-technology orchestration is even more import
 In this context, the MOSAICO (Multi-layer Orchestration for Secured and low lAtency applICatiOns) project proposes to design, implement and validate a global and multi-layer orchestration solution, able to control several underlying network programmability technologies to compose micro-services forming the overall network service.
 
 For further information: https://www.mosaico-project.org/
+
+#
+![](https://komarev.com/ghpvc/?username=mosaico-anr&style=flat-square&label=Page+Views)
